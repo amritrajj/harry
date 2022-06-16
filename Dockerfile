@@ -14,7 +14,7 @@ COPY installer.sh .
 RUN bash installer.sh
 
 # changing workdir
-WORKDIR "/root/DewmiBot"
+WORKDIR "/root/DewmmiBot"
  
 RUN pip install -r requirements.txt
 # start the bot.
