@@ -1,0 +1,15 @@
+if [ -d "resources" ]
+then
+    echo "Current directory Identified.."
+else
+    apt install git -y
+    git clone https://github.com/amritrajj/harry
+    cd harry
+fi
+bash resources/startup/termux.sh
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
