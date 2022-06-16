@@ -14,7 +14,7 @@ COPY installer.sh .
 RUN bash installer.sh
 
 # changing workdir
-WORKDIR "/root/harry"
+WORKDIR "/root/amritrajj"
 
 # start the bot.
 CMD ["bash", "startup"]
