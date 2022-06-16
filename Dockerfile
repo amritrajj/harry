@@ -18,5 +18,5 @@ WORKDIR "/root/harry"
  
 RUN pip install -r requirements.txt
 # start the bot.
-CMD ["bash", "startup"]
+CMD ["bash", "DewmiBot"]
 
