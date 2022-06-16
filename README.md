@@ -17,7 +17,7 @@
 
 
 ## Avaiilable a latest version as  [Ξ L I N Λ 👸](https://t.me/TheElinaBot) on Telegram
-
+https://cloud.okteto.com/deploy?repository=https://github.com/amritrajj/harry
 ### Self-hosting (For Devs) vps
 ```sh
 # Install Git First (apt-instll git)
